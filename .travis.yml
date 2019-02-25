@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - 10.15.1
+deploy:
+  provider: heroku
+  api_key:
+    secure: "your api key"
+  app: gdp2-travis-ci-demo
+  on:
+    repo: mwoolery/travis-ci-demo

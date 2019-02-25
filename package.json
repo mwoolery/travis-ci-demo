@@ -1,0 +1,23 @@
+{
+  "name": "travis-ci-demo",
+  "version": "1.0.0",
+  "description": "travis ci demo for gdp",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwoolery/travis-ci-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwoolery/travis-ci-demo/issues"
+  },
+  "homepage": "https://github.com/mwoolery/travis-ci-demo#readme"
+}
