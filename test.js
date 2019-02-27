@@ -7,7 +7,7 @@ var calc = require('./math.js');
 describe('Math Unit Tests', function() {
 	// And then we describe our testcases.
 	it('returns 2+2=4', function(done) {
-		assert.equal(calc.add(2, 2), 4);
+		assert.equal(calc.add(2, 2), 5);
 		// Invoke done when the test is complete.
 		done();
 	});
